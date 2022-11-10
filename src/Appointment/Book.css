@@ -1,0 +1,71 @@
+.book{
+    margin: 20px;
+}
+.bgimg{
+    background-image: url(https://www.signupgenius.com/cms/socialMediaImages/appointment-scheduling-blog-facebook-1200x630.png);
+}
+
+.title{
+    text-align: center;
+    font-size: 35px;
+  font-weight: 600;
+  border-radius: 15px 15px 0 0;
+}
+/* .title h1{
+    justify-content: center;
+} */
+
+.book select{
+    border-radius: 5px;
+    height: 40px;
+    border: solid blueviolet 1px;
+}
+.book select:hover{
+    border: solid blueviolet 2px;
+}
+
+.book input{
+    border-radius: 5px;
+    height: 40px;
+    border: solid blueviolet 1px;
+}
+
+.book input:hover{
+    border: solid blueviolet 2px;
+}
+.book .button{
+    padding: 20px 2px;
+    text-align: center;
+}
+
+.book .button .btn{
+    color: #fff;
+  border: none;
+  padding: 5px 30px;
+  margin-top: -10px;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  background: linear-gradient(-135deg, #fcff39, #ff8914);
+  transition: all 0.3s ease;
+}
+.book .button .btn:hover{
+    padding: 5px 25px;
+}
+
+.book .items{
+    padding: 7px 0px;
+}
+
+.book-container{
+    justify-content: center;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  max-width: 700px;
+  width: 100%;
+  background-color:#fff;
+  padding: 25px 30px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+}

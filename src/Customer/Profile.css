@@ -1,0 +1,15 @@
+.profile{
+    /* background-color: rgb(120, 241, 124); */
+    border-radius: 6px;
+    background-image: url(/src/images/a6.jpg);
+    width: 700px;
+    height: 550px;
+    text-align: center;
+}
+
+.profile p{
+    padding: 0px 20px ;
+    border-radius: 6px;
+    color: rgb(17, 19, 18);
+    text-shadow: 1ch;
+}

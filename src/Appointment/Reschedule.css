@@ -1,0 +1,28 @@
+.res{
+    display: block;
+    text-align: center;
+    align-items: center;
+}
+.res .card{
+    min-height: 100px;
+    min-width: 100px;
+    margin-top: 20px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    
+    align-items: center;
+}
+.res .card input{
+    height: 40px;
+   width: 200px;
+   border: solid blue 2px;
+   border-radius: 5px;
+}
+.res .card select{
+    height: 40px;
+    width: 200px;
+    margin-bottom: 20px;
+    border: solid blue 2px;
+    border-radius: 5px;
+}
+
